@@ -8,7 +8,7 @@
  * @copyright	(c) 2017 Curse Inc.
  * @license		GPL-2.0-or-later
  * @package		UploadFields
- * @link		http://www.curse.com/
+ * @link		https://gitlab.com/hydrawiki
  *
 **/
 namespace UploadFields;
