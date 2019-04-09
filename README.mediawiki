@@ -17,9 +17,9 @@
 
 The '''UploadFields''' Extension is a MediaWiki extension which allows the configuration of custom upload fields to be added to the [[Special:Upload]] page.  Information from those custom fields is then added to the {{FileInfo}} template on the file page.
 
-;Project Homepage: [https://github.com/HydraWiki/UploadFields Documentation at Github]
-;Source Code: [https://github.com/HydraWiki/UploadFields Source code at Github]
-;Bugs:[https://github.com/HydraWiki/UploadFields/issues issues at Github]
+;Project Homepage: [https://gitlab.com/hydrawiki/extensions/UploadFields Documentation at GitLab]
+;Source Code: [https://gitlab.com/hydrawiki/extensions/UploadFields Source code at GitLab]
+;Bugs: [https://gitlab.com/hydrawiki/extensions/UploadFields/issues Issues at GitLab]
 ;Licensing: UploadFields is GPL-2.0+ Copyright 2017 Curse
 
 
@@ -27,7 +27,7 @@ The '''UploadFields''' Extension is a MediaWiki extension which allows the confi
 
 {{TNT|ExtensionInstall
 |UploadFields
-|download-link=[https://github.com/HydraWiki/UploadFields/archive/v0.0.3.zip Download, extract]
+|download-link=[https://gitlab.com/hydrawiki/extensions/UploadFields/-/archive/v0.0.3/UploadFields-v0.0.3.zip Download, extract]
 |custom-steps=* [[#Configuration|If necessary configure as required.]]
 |registration=required
 }}
