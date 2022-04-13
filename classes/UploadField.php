@@ -75,7 +75,7 @@ class UploadField {
 			['*'],
 			[
 				'page_namespace' => NS_MEDIAWIKI,
-				"page_title REGEXP '^UploadField-.+-.+$'",
+				"page_title LIKE 'UploadField-%-%'",
 				'page_is_redirect' => 0
 			],
 			__METHOD__
